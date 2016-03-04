@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temp</string>
+    <string name="url_temp">https://repet.go.ro:433/temp</string>
+    <string name="server_cert_asset_name">server.crt</string>
+    <string name="client_cert_file_name">client.p12</string>
+    <string name="client_cert_password"></string>
+</resources>
